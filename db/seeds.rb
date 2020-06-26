@@ -10,12 +10,14 @@ dogs = [
     {
         name:"Fiddlesticks",
         age: 4,
-        enjoys: "chasing my tail"
+        enjoys: "chasing my tail",
+        img: "https://www.sheknows.com/wp-content/uploads/2018/08/Chihuahua-driving_wl3lan.jpeg"
     },
     {
         name:"Beevis",
         age: 5,
-        enjoys: "chewing my toy"
+        enjoys: "chewing my toy",
+        img: "https://pbs.twimg.com/media/EYT7beFWsAAotlV.png"
     }
 ]
 
